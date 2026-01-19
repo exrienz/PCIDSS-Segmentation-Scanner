@@ -1,0 +1,11 @@
+# CDE Scan Exclusion List
+# Add IP addresses or ranges to exclude from scanning
+# One entry per line, supports CIDR notation
+#
+# IMPORTANT: Add any critical infrastructure that should NOT be scanned
+# Examples:
+# 10.0.0.1          - Single host
+# 10.0.0.0/30       - Small subnet
+# 192.168.100.254   - Gateway
+#
+# Add exclusions below:

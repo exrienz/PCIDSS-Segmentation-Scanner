@@ -1,0 +1,5 @@
+# Sensitive data - contains real IP addresses
+config/targets.txt
+
+# Scan results - contains network scan data
+scan_results/
